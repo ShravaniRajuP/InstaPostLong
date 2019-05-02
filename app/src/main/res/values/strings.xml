@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaPost</string>
+    <string name="profile_name">profile_name</string>
+    <string name="password_entry">Please enter your password</string>
+</resources>
